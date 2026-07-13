@@ -33,6 +33,7 @@ Ghana, Nigeria, Kenya, Cote d'Ivoire, Senegal, South Africa, Sub-Saharan Africa 
 - `WDI_Digital_Economy_Ghana_Report.pdf` - full report: findings, correlation and trend analysis, dashboard documentation, insights, recommendations.
 - `WDI_Digital_Economy_Cleaned.xlsx` - reference copy of the cleaned dataset.
 - Dashboard screenshots.
+- https://drive.google.com/file/d/1Jg5qolHTZPsQFyIIS9TO6UT5zxdJUF5z/view?usp=sharing
 
 ## Data Cleaning (Power Query, inside the .pbix)
 
@@ -78,7 +79,7 @@ All cleaning was performed in Power BI's Power Query Editor, not in an external 
 
 Full findings, methodology, correlation analysis, and recommendations are in the PDF report.
 ## Demo Video
-[Watch the full walkthrough](https://drive.google.com/file/d/1Jg5qolHTZPsQFyIIS9TO6UT5zxdJUF5z/view?usp=sharing)
+
 
 ## Author
 
