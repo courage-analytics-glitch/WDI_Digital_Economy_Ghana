@@ -77,6 +77,8 @@ All cleaning was performed in Power BI's Power Query Editor, not in an external 
 6. Ghana's digital indicators outperform what its GDP per capita trend alone would predict.
 
 Full findings, methodology, correlation analysis, and recommendations are in the PDF report.
+## Demo Video
+[Watch the full walkthrough](https://drive.google.com/file/d/1Jg5qolHTZPsQFyIIS9TO6UT5zxdJUF5z/view?usp=sharing)
 
 ## Author
 
